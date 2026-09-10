@@ -1,6 +1,10 @@
 # Product Thinking Lab
 
-A self-contained interactive lesson on product thinking. **Double-click `product-thinking.html`** to open it in your browser — no install, no internet needed.
+A self-contained interactive lesson on product thinking.
+
+**▶ [Open it in your browser](https://joypehwork-ui.github.io/product-thinking-lab/)**
+
+Or work offline: download `index.html` and double-click it. One file, no install, no internet needed.
 
 ## What's in it
 
